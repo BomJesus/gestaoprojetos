@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	
 	<groupId>edu.bj</groupId>
-	<artifactId>avaliavao</artifactId>
+	<artifactId>avaliacao</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>gestaoprojetos</name>
 	<description>Gestao de Projetos</description>
